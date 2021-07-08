@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.EventFragment">
+
+
+    <TextView
+        android:id="@+id/header_explore_event"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/explore_events"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginTop="4dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/event_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/header_explore_event"
+        tools:listitem="@layout/item_events"
+        android:layout_marginTop="4dp"/>
+
+</RelativeLayout>

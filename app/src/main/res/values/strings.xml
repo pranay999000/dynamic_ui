@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DynamicUI</string>
+    <string name="where_are_you_going">Where are you going?</string>
+    <string name="july_11_13_tokyo_free">July 11 – 13 / Tokyo / Free</string>
+    <string name="fireworks_in_edogawa">Fireworks in Edogawa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_events">Explore Events</string>
+    <string name="categories">Categories</string>
+</resources>

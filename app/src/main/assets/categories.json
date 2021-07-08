@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ed_Sheehan_-_Divide_Tour.jpg/360px-Ed_Sheehan_-_Divide_Tour.jpg",
+      "heading": "MUSIC"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+      "heading": "MOVIES"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Terrine_de_saumon_au_basilic.JPG/320px-Terrine_de_saumon_au_basilic.JPG",
+      "heading": "FOOD"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Showjumping_white_horse.jpg/320px-Showjumping_white_horse.jpg",
+      "heading": "SPORTS"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Super_Star%2C_Freak_Out_and_KMG_Booster%2C_night.jpg/314px-Super_Star%2C_Freak_Out_and_KMG_Booster%2C_night.jpg",
+      "heading": "CARNIVALS"
+    }
+  ]
+}
